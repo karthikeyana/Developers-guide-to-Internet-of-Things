@@ -1,1 +1,1 @@
-# A-developer-s-guide-to-the-Internet-of-Things-IoT
+# A-developers-guide-to-the-IoT
